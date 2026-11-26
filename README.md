@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# PIPPOC-LOAD
+# PIPPO<STONED
 
 ### ⚡ Developer | Tech Enthusiast | Problem Solver
 
